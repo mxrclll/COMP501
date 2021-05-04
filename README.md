@@ -1,2 +1,2 @@
-# COMP501
-Team repository for our project
+# 1408
+Repository for our team project
